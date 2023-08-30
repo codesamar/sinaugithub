@@ -1,1 +1,2 @@
 # sinaugithub
+Mempelajari penggunaan github
