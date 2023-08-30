@@ -1,2 +1,3 @@
 # sinaugithub
-Mempelajari penggunaan github
+* Mempelajari penggunaan github
+* Branch development
